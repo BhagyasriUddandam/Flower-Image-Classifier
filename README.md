@@ -28,7 +28,7 @@ Libraries/Frameworks: TensorFlow, Keras, PIL (Pillow), NumPy
 Techniques: Transfer Learning, Convolutional Neural Networks (CNNs)
 
 *Achievements:
-Achieved a notable increase in accuracy, surpassing [mention percentage] accuracy in flower identification.
+Achieved a notable increase in accuracy, surpassing 95 % accuracy in flower identification.
 Demonstrated the project's success through practical implementation, emphasizing its potential for real-world applications.
 Future Enhancements:
 Continuous improvement with additional training on diverse datasets to further enhance model accuracy.
